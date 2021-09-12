@@ -2,7 +2,7 @@
 
 // 默认配置
 const defaultConfig = {
-    space: 9.2, // 空间
+    space: 8.8, // 空间
     fileInputId: 'file', // 文件选择框id
     canvasId: 'charVideoCanvas', // 字符画画布
 }
